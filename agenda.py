@@ -6,7 +6,7 @@ import banco
 ###################################################################
 # tkinter object
 app = Tk()
-app.title("CFB Cursos")
+app.title("Minha Agenda")
 app.geometry("800x500")
 app.configure(background="#dde")
 
